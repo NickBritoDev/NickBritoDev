@@ -4,14 +4,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/britodev)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n_britoc)
 
-# Minhas Tecnologias 
-<div style="display: inline-block">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickBritoDev&layout=compact)](https://github.com/NickBritoDev/github-readme-stats)
-
-![Brito GitHub stats](https://github-readme-stats.vercel.app/api?username=NickBritoDev&show_icons=true&theme=cobalt)
-
-</div>
 
 
 
