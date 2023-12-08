@@ -61,5 +61,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickbritodev&show_icons=true&locale=en" alt="nickbritodev" /></p>
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickbritodev&show_icons=true&locale=en&layout=compact" alt="nickbritodev" /></p>
 </div>
-
- <img height="187px" src="https://streak-stats.demolab.com?user=NickBritoDev&theme=tokyonight&hide_border=true" />
