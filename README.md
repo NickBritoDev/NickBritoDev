@@ -58,10 +58,10 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickbritodev&" alt="nickbritodev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickbritodev&theme=react" alt="nickbritodev" /></p>
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickbritodev&show_icons=true&locale=en" alt="nickbritodev" /></p>
-<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickbritodev&show_icons=true&locale=en&layout=compact" alt="nickbritodev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickbritodev&show_icons=true&locale=en&theme=react" alt="nickbritodev" /></p>
+<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickbritodev&show_icons=true&locale=en&layout=compact&theme=react" alt="nickbritodev" /></p>
 </div>
 
 
