@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbritodev" alt="nickbritodev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbritodev&theme=nord" alt="nickbritodev" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, ReactJS/TS, Docker, AWS and Test Applications.**
 
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/britodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="britodev" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nickbritodev&theme=react-dark&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nickbritodev&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
