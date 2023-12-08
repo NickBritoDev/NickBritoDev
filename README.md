@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/britodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="britodev" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nickbritodev&theme=white&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nickbritodev&theme=react-dark&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
