@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Dev Brito</h1>
-<h3 align="center">I live programming beyond the walls of an office.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicolas Brito da Cruz
+=============================================================================================================================================
+
+Full Sack Developer JR
+----------------------
+
+I'm a passionate junior full stack developer dedicated to crafting amazing web and mobile experiences. With a strong focus on JavaScript, I have solid experience in development using React JS and Node JS, along with a variety of their popular frameworks and tools such as Express, Nodemon, Chakra UI, Ionic, TypeScript, and other ecosystem technologies. Currently, I'm captivated by cloud experiences and am committed to enhancing my knowledge in AWS. My aim is to further specialize in becoming a true full stack professional, covering both app development and cloud infrastructure.
+
+* 🌍  I'm based in Brazil, São Paulo
+* 📫 You can contact me at [nicolasbcruz@gmail.com](mailto:nicolasbcruz@gmail.com) / (11) 96592-7889 
+* 🧠  I'm learning AWS, testing and performance
+* ⚡  CO-CEO - CRM PROSPECT
+
+<a href="https://www.github.com/NickBritoDev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NickBritoDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbritodev&theme=nord" alt="nickbritodev" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, ReactJS/TS, Docker, AWS and Test Applications.**
-
-- 📫 How to reach me **nicolasbcruz@gmail.com / (11) 96592-7889**
-
-- ⚡ Fun fact **I'm a pet father, passionate about programming and anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
