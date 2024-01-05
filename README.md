@@ -11,9 +11,6 @@ I'm a passionate junior full stack developer dedicated to crafting amazing web a
 * 🧠  I'm learning AWS, testing and performance
 * ⚡  CO-CEO - CRM PROSPECT
 
-<a href="https://www.github.com/NickBritoDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NickBritoDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbritodev&theme=nord" alt="nickbritodev" /></a> </p>
