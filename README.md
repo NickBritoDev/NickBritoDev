@@ -9,7 +9,6 @@ I'm a passionate junior full stack developer dedicated to crafting amazing web a
 * 🌍  I'm based in Brazil, São Paulo
 * 📫 You can contact me at [nicolasbcruz@gmail.com](mailto:nicolasbcruz@gmail.com) / (11) 96592-7889 
 * 🧠  I'm learning AWS, testing and performance
-* ⚡  CO-CEO - CRM PROSPECT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
