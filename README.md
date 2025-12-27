@@ -58,14 +58,6 @@ I'm a passionate full stack developer dedicated to crafting amazing web and mobi
 ### Socials
 <p align="left"> <a href="https://www.github.com/NickBritoDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/britodev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### My GitHub Stats
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nickbritodev&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbritodev&theme=nord" alt="nickbritodev" /></a> </p>
-
-
-<div style="display: flex; aligntItems: center;">
-<div>
-<a href="http://www.github.com/NickBritoDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NickBritoDev&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
 <a href="http://www.github.com/NickBritoDev"><img src="https://github-readme-stats.vercel.app/api?username=NickBritoDev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NickBritoDev's GitHub stats" /></a>
 <div/>
