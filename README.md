@@ -54,10 +54,3 @@ I'm a passionate full stack developer dedicated to crafting amazing web and mobi
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </div>
-<a href="http://www.github.com/NickBritoDev"><img src="https://github-readme-stats.vercel.app/api?username=NickBritoDev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NickBritoDev's GitHub stats" /></a>
-<div/>
-
-<a href="https://github.com/NickBritoDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBritoDev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<div/>
-
-
