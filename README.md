@@ -8,7 +8,6 @@ I'm a passionate full stack developer dedicated to crafting amazing web and mobi
 
 * 🌍  I'm based in Brazil, São Paulo
 * 📫 You can contact me at [nicolasbcruz@gmail.com](mailto:nicolasbcruz@gmail.com) / (11) 96592-7889 
-* 🧠  I'm learning AWS, testing and performance
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
