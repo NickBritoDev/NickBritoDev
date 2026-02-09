@@ -7,7 +7,32 @@ FullStack Developer
 I'm a passionate full stack developer dedicated to crafting amazing web and mobile experiences. With a strong focus on JavaScript, I have solid experience in development using React JS and Node JS, along with a variety of their popular frameworks and tools such as Express, Nodemon, Chakra UI, Ionic, TypeScript, and other ecosystem technologies. Currently, I'm captivated by cloud experiences and am committed to enhancing my knowledge in AWS. My aim is to further specialize in becoming a true full stack professional, covering both app development and cloud infrastructure.
 
 * 🌍  I'm based in Brazil, São Paulo
-* 📫 You can contact me at [nicolasbcruz@gmail.com](mailto:nicolasbcruz@gmail.com) / (11) 96592-7889 
+* 📫 You can contact me at [nicolasbcruz@gmail.com](mailto:nicolasbcruz@gmail.com) / (11) 96592-7889
+
+``` javascript
+const brito = {
+  title: "Full Stack Developer",
+  specialty: "Backend & Automation",
+  builds: [
+    "High-scale APIs",
+    "Business process automation",
+    "B2B SaaS products",
+    "System & financial integrations"
+  ],
+  stack: {
+    backend: ["Node.js", "TypeScript"],
+    automation: ["n8n"],
+    intelligence: ["AI"],
+    infra: ["Docker", "AWS"]
+  },
+  principles: [
+    "Scalability over shortcuts",
+    "Automation over manual work",
+    "Business value over vanity code"
+  ],
+  belief: "Software exists to reduce friction and create leverage."
+}
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
